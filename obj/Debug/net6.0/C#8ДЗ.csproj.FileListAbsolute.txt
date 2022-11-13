@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\учеба\C#8ДЗ\bin\Debug\net6.0\C#8ДЗ.exe
+C:\Users\User\Desktop\учеба\C#8ДЗ\bin\Debug\net6.0\C#8ДЗ.deps.json
+C:\Users\User\Desktop\учеба\C#8ДЗ\bin\Debug\net6.0\C#8ДЗ.runtimeconfig.json
+C:\Users\User\Desktop\учеба\C#8ДЗ\bin\Debug\net6.0\C#8ДЗ.dll
+C:\Users\User\Desktop\учеба\C#8ДЗ\bin\Debug\net6.0\C#8ДЗ.pdb
+C:\Users\User\Desktop\учеба\C#8ДЗ\obj\Debug\net6.0\C#8ДЗ.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\учеба\C#8ДЗ\obj\Debug\net6.0\C#8ДЗ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\учеба\C#8ДЗ\obj\Debug\net6.0\C#8ДЗ.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\учеба\C#8ДЗ\obj\Debug\net6.0\C#8ДЗ.AssemblyInfo.cs
+C:\Users\User\Desktop\учеба\C#8ДЗ\obj\Debug\net6.0\C#8ДЗ.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\учеба\C#8ДЗ\obj\Debug\net6.0\C#8ДЗ.dll
+C:\Users\User\Desktop\учеба\C#8ДЗ\obj\Debug\net6.0\refint\C#8ДЗ.dll
+C:\Users\User\Desktop\учеба\C#8ДЗ\obj\Debug\net6.0\C#8ДЗ.pdb
+C:\Users\User\Desktop\учеба\C#8ДЗ\obj\Debug\net6.0\C#8ДЗ.genruntimeconfig.cache
+C:\Users\User\Desktop\учеба\C#8ДЗ\obj\Debug\net6.0\ref\C#8ДЗ.dll
